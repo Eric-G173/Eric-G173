@@ -1,7 +1,3 @@
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=Eric-G173&repo=Eric-G173/TCGRider%2Fgithub-readme-stats&description_lines_count=3&theme=dark)](https://github.com/Eric-G173/TCGRider)
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=Eric-G173&repo=Eric-G173/CloudySensor%2Fgithub-readme-stats&description_lines_count=3&theme=dark)](https://github.com/Eric-G173/CloudySensor)
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=Eric-G173&repo=Eric-G173/Sheet2SQL-Sync%2Fgithub-readme-stats&description_lines_count=3&theme=dark)](https://github.com/Eric-G173/Sheet2SQL-Sync)
-
 <div id="header" align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmMxb3B5d2ozcWh6NWtmbWJvYzR0cm1hb2toYnp3cm1pMHFyaGw0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="100"/>
 </div>
