@@ -7,7 +7,7 @@
 </div>
 
 <div id="badges" align ="center">
-  <a href="www.linkedin.com/in/ejg7">
+  <a href="https://www.linkedin.com/in/ejg7">
      <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn Badge"/>
   </a>
 </div>
