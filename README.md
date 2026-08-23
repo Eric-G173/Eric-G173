@@ -24,7 +24,7 @@
 I am a Full Stack Developer from Phoenix, Arizona. I started coding when I was a teenager with video game platforms such as Roblox and Unity. I have since moved onto enterprise level systems and focusing on full-stack design and creation for websites, applications, etc. My goal is to show how capable I am at being a full-stack engineer, and applying my skills to real systems that hundreds to thousands of people could be using.
 
 - 🖥️ What started as building game mechanics in Roblox and Unity as a teenager turned into a love for building full systems. I especially enjoy the moment a project goes from an idea to something that actually runs end-to-end.
-- 🛠️ Secondary to full-stack development, I also have a fondness for IT and computer equipment, especially when it comes to assembly. I am capable of assembling large computers from scratch, as well as properly troubleshooting any network, storage, or BIOS issues.
+- 🛠️ Secondary to full-stack development, I also have a fondness for IT and computer assembly. I am capable of assembling large computers from scratch, as well as properly troubleshooting any network, storage, or BIOS issues.
 - 🎮 I also love gaming in my free time. Halo, Star Wars, and Helldivers 2, are my top picks.
 
 - 📫 How to reach me:  <a href="https://www.linkedin.com/in/ejg7"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn Badge" height="20"/></a>
