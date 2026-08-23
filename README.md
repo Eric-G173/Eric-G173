@@ -23,15 +23,49 @@
 
 I am a Full Stack Developer from Phoenix, Arizona. I started coding when I was a teenager with video game platforms such as Roblox and Unity. I have since moved onto enterprise level systems and focusing on full-stack design and creation for websites, applications, etc. My goal is to show how capable I am at being a full-stack engineer, and applying my skills to real systems that hundreds to thousands of people could be using.
 
-- 🖥️ What started as building game mechanics in Roblox and Unity as a teenager turned into a love for building full systems. I especially enjoy the moment a project goes from an idea to something that actually runs end-to-end.
-- 🛠️ Secondary to full-stack development, I also have a fondness for IT and computer assembly. I am capable of assembling large computers from scratch, as well as properly troubleshooting any network, storage, or BIOS issues.
+- 🏗️ What started as building game mechanics in Roblox and Unity as a teenager turned into a love for building full systems. I especially enjoy the moment a project goes from an idea to something that actually runs end-to-end. 
+- 🖥️ Secondary to full-stack development, I also have a fondness for IT and computer assembly. I am capable of assembling large computers from scratch, as well as properly troubleshooting any network, storage, or BIOS issues.
 - 🎮 I also love gaming in my free time. Halo, Star Wars, and Helldivers 2, are my top picks.
 
 - 📫 How to reach me:  <a href="https://www.linkedin.com/in/ejg7"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn Badge" height="20"/></a>
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools
+
+#### Programming Languages:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/> 
+</div>
+
+#### Frameworks & Tools:
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" title="Electron" alt="Electron" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  </div>
+  
+#### DevOps & Deployment:
+
+<div>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-plain-wordmark.svg" title="GH Actions" alt="GH Actions" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-plain-wordmark.svg" title="Pytest" alt="Pytest" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="40" height="40"/>
+  </div>
+  
+#### Databases: 
+
+<div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite"  alt="SQLite" width="40" height="40"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="MongoDB"  alt="MongoDB" width="40" height="40"/> 
+</div>
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Eric-G173&rank_icon=github&show_icons=true&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=Eric-G173&rank_icon=github&show_icons=true&include_all_commits=true&theme=dark)
 
