@@ -67,6 +67,10 @@ I am a Full Stack Developer from Phoenix, Arizona. I started coding when I was a
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="MongoDB"  alt="MongoDB" width="60" height="50"/> 
 </div>
 
+---
+
+### 🔥 My Stats:
+
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Eric-G173&rank_icon=github&show_icons=true&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=Eric-G173&rank_icon=github&show_icons=true&include_all_commits=true&theme=dark)
 
 
