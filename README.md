@@ -19,20 +19,16 @@
 
 ---
 
-### :man_technologist: About Me :
+### :man_technologist: About Me:
 
 I am a Full Stack Developer from Phoenix, Arizona. I started coding when I was a teenager with video game platforms such as Roblox and Unity. I have since moved onto enterprise level systems and focusing on full-stack design and creation for websites, applications, etc. My goal is to show how capable I am at being a full-stack engineer, and applying my skills to real systems that hundreds to thousands of people could be using.
 
-- 🖥️ I love creating with computers, it is a hobby of mine and helped in kickstarting my career into Computer Science. I have a mind that is full of unique and creative ideas, so being able to create them is amazing.
+- 🖥️ I love creating applications, it is a hobby of mine and helped in kickstarting my career into Computer Science. I have a mind that is full of unique and creative ideas, so being able to create them is amazing.
 
-- 🛠️ I also have a fondness for IT and computer equipment, especially when it comes to assembly. I am capable of assembling large computers from scratch, as well as properly troubleshooting any network, storage, or BIOS issues.
-- 🎮 I also have a huge passion for video games. My top picks are Halo (any game), Star Wars (Battlefront Series, Empire at War, Republic Commando & Force Unleashed), Helldivers 2, SCP: Secret Lab, Warhammer 40k (Dawn of War Series, Darktide, & Space Marine Series), and Team Fortress 2. I will nerd out 
+- 🛠️ I have a fondness for IT and computer equipment, especially when it comes to assembly. I am capable of assembling large computers from scratch, as well as properly troubleshooting any network, storage, or BIOS issues.
+- 🎮 I also love gaming in my free time. Halo, Star Wars, Helldivers 2, and anything co-op with friends.
 
-- :mailbox:How to reach me: <div id="badges">
-  <a href="https://www.linkedin.com/in/ejg7">
-     <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn Badge"/>
-  </a>
-</div>
+- 📫 How to reach me:  <a href="https://www.linkedin.com/in/ejg7"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn Badge" height="20"/></a>
 
 ---
 
