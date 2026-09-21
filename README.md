@@ -23,7 +23,7 @@
 
 I am a Full Stack Developer from Phoenix, Arizona. I started coding when I was a teenager with video game platforms such as Roblox and Unity. I have since moved onto enterprise level systems and focusing on full-stack design and creation for websites, applications, etc. My goal is to show how capable I am at being a full-stack engineer, and applying my skills to real systems that hundreds to thousands of people could be using.
 
-- 🏗️ What started as building game mechanics in Roblox and Unity as a teenager turned into a love for building full systems. I especially enjoy the moment a project goes from an idea to something that actually runs end-to-end. 
+- 🏗️ What started as building game mechanics and AI systems in Roblox and Unity as a teenager turned into a love for building full systems. I especially enjoy the moment a project goes from an idea to something that actually runs end-to-end. 
 - 🖥️ Secondary to full-stack development, I also have a fondness for IT and computer assembly. I am capable of assembling large computers from scratch, as well as properly troubleshooting any network, storage, or BIOS issues.
 - 🎮 I also love gaming in my free time. Halo, Star Wars, and Helldivers 2, are my top picks.
 
@@ -51,12 +51,15 @@ I am a Full Stack Developer from Phoenix, Arizona. I started coding when I was a
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   </div>
   
-#### DevOps & Deployment:
+#### Testing & Deployment:
 
 <div>
  <img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-plain-wordmark.svg" title="GH Actions" alt="GH Actions" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-plain-wordmark.svg" title="Pytest" alt="Pytest" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="Postman" **alt="Postman" width="80" height="80"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/playwright/playwright-original.svg" title="Playwright" alt="Playwright" width="40" height="40"/>
   </div>
   
 #### Databases: 
@@ -64,7 +67,8 @@ I am a Full Stack Developer from Phoenix, Arizona. I started coding when I was a
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite"  alt="SQLite" width="60" height="50"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="60" height="50"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="MongoDB"  alt="MongoDB" width="60" height="50"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="MongoDB"  alt="MongoDB" width="60" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/dynamodb/dynamodb-original.svg" title="DynamoDB"  alt="DynamoDB" width="60" height="50"/> 
 </div>
 
 ---
