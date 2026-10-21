@@ -21,13 +21,9 @@
 
 ### :man_technologist: About Me:
 
-I am a Full Stack Developer from Phoenix, Arizona. I started coding when I was a teenager with video game platforms such as Roblox and Unity. I have since moved onto enterprise level systems and focusing on full-stack design and creation for websites, applications, etc. My goal is to show how capable I am at being a full-stack engineer, and applying my skills to real systems that hundreds to thousands of people could be using.
+Hi, I’m Eric 👋 I’m a computer science graduate in Phoenix, AZ focused on backend development and test automation (Python, C#, SQL). I spent five years in pharmacy operations and now work in quality assurance at a pharmaceutical manufacturer, so I care about accuracy, process, and reliability. I’m currently building a website for a local company. I started coding as a teenager making game mechanics in Roblox and Unity, and I still love taking a project from an idea to something that runs end to end.
 
-- 🏗️ What started as building game mechanics and AI systems in Roblox and Unity as a teenager turned into a love for building full systems. I especially enjoy the moment a project goes from an idea to something that actually runs end-to-end. 
-- 🖥️ Secondary to full-stack development, I also have a fondness for IT and computer assembly. I am capable of assembling large computers from scratch, as well as properly troubleshooting any network, storage, or BIOS issues.
-- 🎮 I also love gaming in my free time. Halo, Star Wars, and Helldivers 2, are my top picks.
-
-- 📫 How to reach me:  <a href="https://www.linkedin.com/in/ejg7"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn Badge" height="20"/></a>
+ How to reach me:  <a href="https://www.linkedin.com/in/ejg7"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn Badge" height="20"/></a>
 
 ---
 
